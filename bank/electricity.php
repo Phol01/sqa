@@ -216,7 +216,7 @@ body {
         </a>
 
         <!-- Add more suppliers here -->
-<<<<<<< HEAD
+
         <a href="#" class="supplier-item">
         <div class="supplier-logo">
             <img src="https://static.wixstatic.com/media/22fad1_efe59b5122ef4f09b41dfbc69d316d72~mv2.gif" width="35px" alt="Logo">
@@ -232,13 +232,7 @@ body {
         <div class="supplier-name">&nbsp;Omeco IEC</div>
         <div class="supplier-icon">></div>
     </a>
-    <a href="#" class="supplier-item">
-        <div class="supplier-logo">
-            <img src="https://www.marketscreener.com/static/instruments-logo-6491201" width="30px" height="25" alt="Logo">
-        </div>
-        <div class="supplier-name">&nbsp;Manila Electric Company</div>
-        <div class="supplier-icon">></div>
-    </a>
+    
     <a href="#" class="supplier-item">
         <div class="supplier-logo">
             <img src="https://negrosnowdaily.com/wp-content/uploads/2022/11/noceco-1024x567.jpg" width="35px" alt="Logo">
@@ -246,7 +240,7 @@ body {
         <div class="supplier-name">&nbsp;Negros Occidental Electric Cooperative</div>
         <div class="supplier-icon">></div>
     </a>
-=======
+
         <div class="supplier-list">
         <a href="meralco.php" class="supplier-item">
           <div class="supplier-logo">
@@ -288,7 +282,6 @@ body {
           <div class="supplier-icon">></div>
         </a>
 
->>>>>>> c44ec8b6162cae3e777156b3d410abad59594c66
       </div>
 <script>
     function loadContent(url) {

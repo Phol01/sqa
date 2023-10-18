@@ -209,75 +209,35 @@ body {
           <div class="supplier-name">&nbsp;Prime Water Nasugbu</div>
           <div class="supplier-icon">></div>
         </a>
-<<<<<<< HEAD
-        <a href="#" class="supplier-item">
+        <a href="nawasa.php" class="supplier-item">
           <div class="supplier-logo">
-            <img src="https://seeklogo.com/images/M/mcwd-logo-AAB4B27F7A-seeklogo.com.gif" width="35px" alt="Logo">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT463SVmMj_kcqyqHmxf1Qd6jM2Axt46931uDQFQU0xRg&s" width="35px" alt="Logo">
           </div>
           <div class="supplier-name">&nbsp;Cebu Water</div>
           <div class="supplier-icon">></div>
         </a>
-        <a href="#" class="supplier-item">
+        <a href="nawasa.php" class="supplier-item">
           <div class="supplier-logo">
-            <img src="https://larc.com.ph/wp-content/uploads/2023/02/Larc-Logo.png" width="35px" alt="Logo">
+            <img src="https://pbs.twimg.com/profile_images/1095162025645207552/_x-jbb4W_400x400.png" width="35px" alt="Logo">
           </div>
           <div class="supplier-name">&nbsp;Laguna Water</div>
           <div class="supplier-icon">></div>
         </a>
-        <a href="#" class="supplier-item">
+        <a href="nawasa.php" class="supplier-item">
           <div class="supplier-logo">
-            <img src="https://s3-symbol-logo.tradingview.com/manila-water-company--600.png" width="35px" alt="Logo">
-=======
-        <!-- Add more suppliers here -->
-        <div class="supplier-list">
-        <a href="maynilad.php" class="supplier-item">
-          <div class="supplier-logo">
-            <img src="https://media.philstar.com/photos/2023/09/27/mayniladlogo-faucet-image-philstar_2023-09-27_23-41-50.jpg" width="35px" alt="Logo">
-          </div>
-          <div class="supplier-name">&nbsp;Maynilad</div>
-          <div class="supplier-icon">></div>
-        </a>
-        <div class="supplier-list">
-        <a href="manilawater.php" class="supplier-item">
-          <div class="supplier-logo">
-            <img src="https://www.bworldonline.com/wp-content/uploads/2021/10/Manila-Water-logo.jpg"p width="35px" alt="Logo">
->>>>>>> c44ec8b6162cae3e777156b3d410abad59594c66
+            <img src="https://www.businesslist.ph/img/ph/l/1686302450-74-manila-water-hotline.jpg" width="35px" alt="Logo">
           </div>
           <div class="supplier-name">&nbsp;Manila Water</div>
           <div class="supplier-icon">></div>
         </a>
-<<<<<<< HEAD
-        <a href="#" class="supplier-item">
+        <a href="nawasa.php" class="supplier-item">
           <div class="supplier-logo">
-            <img src="https://communityblogph.files.wordpress.com/2015/02/boracaywaterlogo_vertical_cmyk.jpg" width="35px" alt="Logo">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4siCUjqK6YATz5VRkIyt0RMiIEBGTi3RZsEvDFTnsa9Y6Wo5HYf_fjC5JLuX6DFArpuU&usqp=CAU" width="35px" alt="Logo">
           </div>
-          <div class="supplier-name">&nbsp;Boracay Water</div>
-          <div class="supplier-icon">></div>
-        </a> 
-=======
-        <div class="supplier-list">
-        <a href="lagunawater.php" class="supplier-item">
-          <div class="supplier-logo">
-            <img src="https://www.lagunawater.com.ph/images/lwac-logo_footer.png"p width="35px" alt="Logo">
-          </div>
-          <div class="supplier-name">&nbsp;Laguna Water</div>
+          <div class="supplier-name">&nbsp;Maynilad Water</div>
           <div class="supplier-icon">></div>
         </a>
-        <a href="watersphilippines.php" class="supplier-item">
-          <div class="supplier-logo">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebJ9lcvvYN8sd_kdxtObniZeXpk8ariAK7A&usqp=CAU"p width="35px" alt="Logo">
-          </div>
-          <div class="supplier-name">&nbsp;Waters Philippines Inc.</div>
-          <div class="supplier-icon">></div>
-        </a>
-        <a href="boracaywater.php" class="supplier-item">
-          <div class="supplier-logo">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoZuA2DXFANKZvLOlLD76jB_8bMSWz41PHA&usqp=CAU"p width="35px" alt="Logo">
-          </div>
-          <div class="supplier-name">&nbsp;Boracay Water</div>
-          <div class="supplier-icon">></div>
-        </a>
->>>>>>> c44ec8b6162cae3e777156b3d410abad59594c66
+        
       </div>
 <script>
     function loadContent(url) {
