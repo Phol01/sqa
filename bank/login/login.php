@@ -42,10 +42,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             font-family: Arial, sans-serif;
             background: linear-gradient(45deg, #3F87A6, #ebf8e1);
             display: flex;
-            justify-content: center;
+            flex-direction: column; /* Center content vertically */
             align-items: center;
+            justify-content: center;
             height: 100vh;
             margin: 0;
+        }
+
+        .title {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold; /* Make the title bold */
+            color: #333;
+            margin-bottom: 20px;
         }
 
         .form-container {
@@ -55,11 +64,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             padding: 40px;
             width: 400px;
             text-align: center;
-        }
-
-        .form-container h2 {
-            margin-bottom: 20px;
-            color: #333;
         }
 
         .form-group {
@@ -113,8 +117,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </style>
 </head>
 <body>
+    <div class="title">Paybills Bank</div> <!-- Title at the top and centered, in bold -->
     <div class="form-container">
-        <h2>Login</h2>
+        <h2>Login</h2> <!-- Original title inside the modal -->
+
         <form action="login.php" method="post">
             <div class="form-group">
                 <label for="login-username">Username:</label>

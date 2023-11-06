@@ -56,17 +56,26 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Sign Up</title>
-</head>
-<style>
-body {
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <style>
+        body {
             font-family: Arial, sans-serif;
             background: linear-gradient(45deg, #3F87A6, #ebf8e1);
             display: flex;
-            justify-content: center;
+            flex-direction: column; /* Center content vertically */
             align-items: center;
+            justify-content: center;
             height: 100vh;
             margin: 0;
+        }
+
+        .title {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold; /* Make the title bold */
+            color: #333;
+            margin-bottom: 20px;
         }
 
         .form-container {
@@ -76,11 +85,6 @@ body {
             padding: 40px;
             width: 400px;
             text-align: center;
-        }
-
-        .form-container h2 {
-            margin-bottom: 20px;
-            color: #333;
         }
 
         .form-group {
@@ -132,8 +136,9 @@ body {
             font-weight: bold;
         }
     </style>
-    
+</head>
 <body>
+    <div class="title">Paybills Bank</div> <!-- Title at the top and centered, in bold -->
     <div class="form-container">
         <h2>Sign Up</h2>
         <form action="signup.php" method="post">
